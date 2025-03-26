@@ -8,8 +8,8 @@
 
 <br>
 
-### [Bronze🥉]
- - [Bronze V]
+### [Bronze🥉](https://github.com/swuhyeon/BOJ/tree/main/Bronze)
+ - [Bronze V](https://github.com/swuhyeon/BOJ/tree/main/Bronze/Bronze%20V)
  - [Bronze IV]
  - [Bronze III]
  - [Bronze II]
